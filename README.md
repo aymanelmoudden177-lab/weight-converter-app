@@ -16,7 +16,7 @@ Kotlin, XML layouts, Android Studio
 ## Run it
 
 1. Clone the repository
-2. Open the project in Android Studio
+2. In Android Studio, open the `weight-converter-app` folder inside the repository
 3. Let Gradle sync, then run it on an emulator or a physical Android device
 
 ## Author
